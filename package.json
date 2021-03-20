@@ -1,0 +1,16 @@
+{
+  "name": "cal_area_of_a_circle",
+  "version": "1.1.2",
+  "description": "Calculate Area of Circle",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cal_area_of_a_circle": "^1.0.0"
+  }
+}
